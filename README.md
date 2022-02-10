@@ -1,6 +1,4 @@
 # Hi My Name is Roshan Upadhyay.
-# I am currently learinng to code.
-# I am interested in AI and Robotics.
 
 <!--
 **RoshanUpadhyay02/RoshanUpadhyay02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
