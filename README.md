@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am an ** AI enthusiast**. I am also Pursuing my Bachelor in **Artificial Intelligence** and will graduate in 2024.
+🎓 I am an **AI enthusiast**. I am also Pursuing my Bachelor in **Artificial Intelligence** and will graduate in 2024.
 
 <p><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></p>
 
