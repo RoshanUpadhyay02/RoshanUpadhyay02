@@ -4,7 +4,7 @@
 
 🎓 I am an **AI enthusiast**. I am also Pursuing my Bachelor in **Artificial Intelligence** and will graduate in 2024.
 
-<p align="center"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"></p>
+<p align="center"><img alt="GIF" src="https://github.com/RoshanUpadhyay02/RoshanUpadhyay02/blob/main/code.gif" width="500" height="320"></p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=RoshanUpadhyay02&show_icons=true&theme=gotham">                  <img alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanUpadhyay02&theme=blue-green">
 
