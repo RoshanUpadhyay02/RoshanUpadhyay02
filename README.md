@@ -6,7 +6,7 @@
 
 <p align="center"><img alt="GIF" src="https://github.com/RoshanUpadhyay02/RoshanUpadhyay02/blob/main/code.gif" width="500" height="320"></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RoshanUpadhyay02&show_icons=true&theme=gotham">                  <img alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanUpadhyay02&theme=blue-green">
+<img src="https://github-readme-stats-roshanupadhyay02.vercel.app/api?username=RoshanUpadhyay02&show_icons=true&theme=gotham">                  <img alt="GIF" src="https://github-readme-stats-roshanupadhyay02.vercel.app/api/top-langs/?username=RoshanUpadhyay02&theme=blue-green">
 
 
 
