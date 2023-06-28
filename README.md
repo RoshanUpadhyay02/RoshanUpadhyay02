@@ -1,45 +1,21 @@
-# Hi, I'm Roshan Upadhyay. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-
-## 🚀 About Me
-
-🎓 I am an **AI enthusiast**. I am also Pursuing my Bachelor in **Artificial Intelligence** and will graduate in 2024.
-
-<p align="center"><img alt="GIF" src="https://github.com/RoshanUpadhyay02/RoshanUpadhyay02/blob/main/code.gif" width="500" height="320"></p>
-
-<img src="https://github-readme-stats-roshanupadhyay02.vercel.app/api?username=RoshanUpadhyay02&show_icons=true&theme=gotham">                  <img alt="GIF" src="https://github-readme-stats-roshanupadhyay02.vercel.app/api/top-langs/?username=RoshanUpadhyay02&theme=blue-green">
+# 💫 About Me:
+👋 Hey there! I'm Roshan Upadhyay, an AI enthusiast and a student pursuing my Bachelor's degree in Artificial Intelligence, set to graduate in 2024. I'm passionate about all things AI, from machine learning to natural language processing. Currently, I'm honing my skills in various AI technologies, exploring new ideas, and seeking exciting collaborations. If you're working on interesting AI projects or need assistance with anything related to AI, feel free to reach out! Let's join forces and push the boundaries of artificial intelligence together. 🚀<br><br>In my spare time, I love delving into the latest advancements in the AI field, experimenting with new algorithms, and staying up to date with cutting-edge research. If you have any questions about AI or simply want to chat about the fascinating world of artificial intelligence, feel free to ask! I'm here to share knowledge and exchange ideas.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/roshanupadhyay1/) 
 
-## 🛠️ Skills
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RoshanUpadhyay02&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RoshanUpadhyay02&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanUpadhyay02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Languages
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  
-  
-  
-## 🔗 Links
-<a href="https://www.instagram.com/roshan__upadhyay/">
-  <img align="left" alt="Roshan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/roshanupadhyay1/">
-  <img align="left" alt="Roshan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-  
-  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RoshanUpadhyay02.visitor-badge&left_color=red&right_color=green) 
-  
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RoshanUpadhyay02&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-<!--
-**RoshanUpadhyay02/RoshanUpadhyay02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+[![](https://visitcount.itsvg.in/api?id=RoshanUpadhyay02&icon=0&color=3)](https://visitcount.itsvg.in)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
