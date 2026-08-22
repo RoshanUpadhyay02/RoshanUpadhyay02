@@ -155,17 +155,27 @@ Developed an automated diabetic retinopathy screening system using **InceptionV4
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=RoshanUpadhyay02&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=RoshanUpadhyay02&theme=dark&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=RoshanUpadhyay02&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanUpadhyay02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanUpadhyay02&layout=compact&theme=dark&hide_border=true&count_private=true" height="180"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=RoshanUpadhyay02&theme=dark&hide_border=true" height="180"/>
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=RoshanUpadhyay02&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RoshanUpadhyay02&theme=dark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
+
+</div>
 
 ---
 
