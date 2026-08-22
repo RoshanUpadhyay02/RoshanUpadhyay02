@@ -1,21 +1,174 @@
-# 💫 About Me:
-👋 Hey there! I'm Roshan Upadhyay, an AI enthusiast and a student pursuing my Bachelor's degree in Artificial Intelligence, set to graduate in 2024. I'm passionate about all things AI, from machine learning to natural language processing. Currently, I'm honing my skills in various AI technologies, exploring new ideas, and seeking exciting collaborations. If you're working on interesting AI projects or need assistance with anything related to AI, feel free to reach out! Let's join forces and push the boundaries of artificial intelligence together. 🚀<br><br>In my spare time, I love delving into the latest advancements in the AI field, experimenting with new algorithms, and staying up to date with cutting-edge research. If you have any questions about AI or simply want to chat about the fascinating world of artificial intelligence, feel free to ask! I'm here to share knowledge and exchange ideas.
+# 👋 Hi, I'm Roshan Upadhyay
 
+### AI & Data Science Engineer | AI/ML | Deep Learning | Computer Vision
 
-## 🌐 Socials:
-<a target="_blank" href="https://www.linkedin.com/in/roshanupadhyay1/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+I'm an **AI & Data Science Engineer** currently pursuing my **M.Tech in Artificial Intelligence & Data Science Engineering at IIT Patna**. I hold a **B.Tech in Artificial Intelligence from SRM Institute of Science and Technology**, with a **9.44/10 CGPA**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RoshanUpadhyay02&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RoshanUpadhyay02&theme=dark&hide_border=false)<br/>
+I'm passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Data Analytics**, with a focus on building practical solutions to real-world problems.
+
+---
+
+## 🎓 Education
+
+- 🎓 **M.Tech – Artificial Intelligence & Data Science Engineering**  
+  **Indian Institute of Technology, Patna** | 2026–2028
+
+- 🎓 **B.Tech – Artificial Intelligence**  
+  **SRM Institute of Science and Technology** | 2020–2024  
+  **CGPA: 9.44/10**
+
+---
+
+## 💼 Professional Experience
+
+**Administrator – Digital Network – Tech Ops @ Microland**
+
+Applying **data analytics, Python/scripting, automation, and data-driven problem solving** to optimize enterprise infrastructure and security operations.
+
+---
+
+## 🧠 Areas of Interest
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 📊 Data Science & Data Analytics
+- 🎯 Reinforcement Learning
+- ⚙️ AI & Process Automation
+
+---
+
+## 💻 Tech Stack
+
+### 🐍 Programming & Data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🤖 Machine Learning & Deep Learning
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Machine Learning • Deep Learning • Reinforcement Learning • Computer Vision**
+
+### 📊 Data Analytics & Visualization
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+### 🖥️ Systems & Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Linux • Scripting • DNS • DHCP • IPAM • Infoblox**
+
+---
+
+## 🚀 Featured Projects
+
+### 🧘 AI Yoga Instructor
+
+Built an AI-based yoga instructor using **Python, Deep Learning, and PoseNet**, capable of recognizing **20 yoga poses** with **99.32% pose recognition accuracy**.
+
+- Improved real-time performance by approximately **15%**
+- Secured **₹2,00,000 funding**
+
+### 🚗 Driver Drowsiness Detection
+
+Developed a real-time driver monitoring system using **OpenCV and Deep Learning**.
+
+- Achieved approximately **95% detection accuracy**
+- Designed for real-time drowsiness monitoring
+
+### 🌙 Lunar Lander — Reinforcement Learning
+
+Trained a reinforcement learning agent using **Q-Learning and OpenAI Gym**.
+
+- Achieved **90%+ successful landings**
+- Tested across multiple simulation scenarios
+
+### 🩻 Medical Image Classification
+
+Developed a deep learning system for **pneumonia detection from X-ray images**.
+
+- Achieved approximately **93% classification accuracy**
+
+### 👁️ Diabetic Retinopathy Detection
+
+Developed an automated diabetic retinopathy screening system using **InceptionV4**.
+
+- Achieved **92.83% classification accuracy**
+- Focused on early-stage detection
+
+---
+
+## 🏆 Achievements
+
+- 🥉 **Third Position** — MDP Exhibition, SRMIST 2024
+- 🏅 **POC Presentation Round** — NASSCOM Academic Grand Challenge 2022
+- 🏅 **Final Round** — CINTEL's NEXT-GEN AI Ideathon 2022
+- 🥉 **Third Position** — SRM Project Expo 2021
+
+---
+
+## 📚 Publications & Patent
+
+- 📄 **Enhancing Diabetic Retinopathy Diagnosis with Inception v4: A Deep Learning Approach** — IEEE
+- 📄 **Advanced Yoga Pose Estimation: Enhancing PoseNet with Adaptive Key Point Elimination** — IEEE
+- 📜 **Patent Application Publication** — *A System And Method For Real-Time Yoga Pose Detection Using A Convolutional Neural Network (CNN) Architecture*
+
+---
+
+## 📜 Certifications
+
+- 🎓 Machine Learning — Stanford University, Coursera
+- 🎓 IBM Machine Learning Professional Certificate
+- 🎓 Data Science and Machine Learning — Coding Ninjas
+- 🎓 Data Structures and Algorithms in Python — Coding Ninjas
+- 🎓 Introduction to Python — Coding Ninjas
+- 🎓 Basics of Python Programming — IIT Kharagpur / Enduro
+- 🎓 Software Development Processes and Methodologies — University of Minnesota, Coursera
+
+---
+
+## 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/roshanupadhyay1/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://roshanupadhyay.space/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=RoshanUpadhyay02&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=RoshanUpadhyay02&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanUpadhyay02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=RoshanUpadhyay02&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RoshanUpadhyay02&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐ **Thanks for visiting my profile!**
+
+*Always learning, building, and exploring the world of Artificial Intelligence.*
