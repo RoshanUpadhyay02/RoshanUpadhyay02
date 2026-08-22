@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Roshan Upadhyay
 
-### AI & Data Science Engineer | AI/ML | Deep Learning | Computer Vision
+### M.Tech in Artificial Intelligence & Data Science @ IIT Patna | B.Tech in Artificial Intelligence
 
-I'm an **AI & Data Science Engineer** currently pursuing my **M.Tech in Artificial Intelligence & Data Science Engineering at IIT Patna**. I hold a **B.Tech in Artificial Intelligence from SRM Institute of Science and Technology**, with a **9.44/10 CGPA**.
+Currently pursuing my **M.Tech in Artificial Intelligence & Data Science Engineering at IIT Patna**. I hold a **B.Tech in Artificial Intelligence from SRM Institute of Science and Technology**, with a **9.44/10 CGPA**.
 
-I'm passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Data Analytics**, with a focus on building practical solutions to real-world problems.
+I'm passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Data Science**, and enjoy building practical solutions while exploring new technologies and research.
 
 ---
 
