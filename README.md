@@ -157,23 +157,9 @@ Developed an automated diabetic retinopathy screening system using **InceptionV4
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RoshanUpadhyay02&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180"/>
+<img src="./profile/stats.svg" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanUpadhyay02&layout=compact&theme=dark&hide_border=true&count_private=true" height="180"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=RoshanUpadhyay02&theme=dark&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RoshanUpadhyay02&theme=dark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
+<img src="./profile/top-langs.svg" height="180"/>
 
 </div>
 
